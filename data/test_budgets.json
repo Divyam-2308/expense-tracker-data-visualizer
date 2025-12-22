@@ -1,0 +1,10 @@
+{
+  "monthly_budget": 15000,
+  "categories": {
+    "Food": 4000,
+    "Transport": 2000,
+    "Entertainment": 2000
+  },
+  "created_at": "2025-12-22T15:42:02.658955",
+  "updated_at": "2025-12-22T15:42:02.659953"
+}
