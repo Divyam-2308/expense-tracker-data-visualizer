@@ -19,7 +19,8 @@ Date,Category,Description,Amount
 2025-09-25,Shopping,Shoes,996.89
 2025-10-26,Miscellaneous,Gift,450.82
 2025-10-30,Travel,Fuel,1442.11
-2025-11-01,Food,250
-2025-11-01,Transport,120
-2025-12-02,Shopping,500
-2025-12-03,Entertainment,300
+2025-11-01,Food,250,
+2025-11-01,Transport,120,
+2025-12-02,Shopping,500,
+2025-12-03,Entertainment,300,
+2025-12-24,Entertainment,Movie ticket,250.0
