@@ -1,2 +1,28 @@
-streamlit>=1.29.0
-pandas>=2.0.0
+# CashCraft Mobile App Dependencies
+# Note: This is a React Native/Expo project using npm/yarn for package management.
+# The actual dependencies are managed in package.json.
+# This file lists the Python dependencies if any backend scripts are used.
+
+# No Python dependencies required for this React Native/Expo mobile application.
+# Please use npm or yarn to install JavaScript/TypeScript dependencies:
+#
+#   npm install
+#   or
+#   yarn install
+#
+# For Expo projects, you can also use:
+#   npx expo install
+
+Install Node.js, Expo CLI	⬜
+Install Android Studio	⬜
+Create React Native project	⬜
+Install dependencies	⬜
+Set up folder structure	⬜
+Create Supabase project	⬜
+Create database tables	⬜
+Connect app to Supabase	⬜
+Create stores (Zustand)	⬜
+Initialize Git	⬜
+Push to GitHub	⬜
+Add friend as collaborator	⬜
+Test app runs
